@@ -75,6 +75,7 @@
             this.cboAlg1.Name = "cboAlg1";
             this.cboAlg1.Size = new System.Drawing.Size(200, 21);
             this.cboAlg1.TabIndex = 2;
+            this.cboAlg1.SelectedIndex = 3;
             // 
             // cboAlg2
             // 
