@@ -30,6 +30,7 @@ namespace SortComparison
         private void Form1_Load(object sender, EventArgs e)
         {
             this.tbSamples.Value = 30;
+            this.txtOutputFolder.Text = InitializeOutputFolder();
             this.cmdShuffle.PerformClick();
         }
 
@@ -258,6 +259,10 @@ namespace SortComparison
         private void pnlSort1_Click(object sender, EventArgs e)
         {
 
+        }
+        private string InitializeOutputFolder()
+        {
+            return AppDomain.CurrentDomain.BaseDirectory.ToString() + "\\output";
         }
     }
 }

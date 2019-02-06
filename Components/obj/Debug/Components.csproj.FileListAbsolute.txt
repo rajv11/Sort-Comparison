@@ -10,3 +10,9 @@ C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\obj\Debug\Comp
 C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
 C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\obj\Debug\Gif.Components.dll
 C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\obj\Debug\Gif.Components.pdb
+C:\Users\S531519\44663\Sort-Comparison\Components\bin\Debug\Gif.Components.dll
+C:\Users\S531519\44663\Sort-Comparison\Components\bin\Debug\Gif.Components.pdb
+C:\Users\S531519\44663\Sort-Comparison\Components\obj\Debug\Components.csprojAssemblyReference.cache
+C:\Users\S531519\44663\Sort-Comparison\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\S531519\44663\Sort-Comparison\Components\obj\Debug\Gif.Components.dll
+C:\Users\S531519\44663\Sort-Comparison\Components\obj\Debug\Gif.Components.pdb
