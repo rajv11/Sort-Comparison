@@ -75,6 +75,7 @@
             this.cboAlg1.Name = "cboAlg1";
             this.cboAlg1.Size = new System.Drawing.Size(200, 21);
             this.cboAlg1.TabIndex = 2;
+            this.cboAlg1.SelectedIndex = 3;
             // 
             // cboAlg2
             // 
@@ -100,6 +101,7 @@
             this.cboAlg2.Name = "cboAlg2";
             this.cboAlg2.Size = new System.Drawing.Size(200, 21);
             this.cboAlg2.TabIndex = 3;
+            this.cboAlg2.SelectedIndex = 12;
             // 
             // cmdShuffle
             // 

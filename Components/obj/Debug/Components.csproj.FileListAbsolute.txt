@@ -4,3 +4,9 @@ C:\Users\raj\Documents\44663\SortComparison_src\Components\obj\Debug\Components.
 C:\Users\raj\Documents\44663\SortComparison_src\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
 C:\Users\raj\Documents\44663\SortComparison_src\Components\obj\Debug\Gif.Components.dll
 C:\Users\raj\Documents\44663\SortComparison_src\Components\obj\Debug\Gif.Components.pdb
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\bin\Debug\Gif.Components.dll
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\bin\Debug\Gif.Components.pdb
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\obj\Debug\Components.csprojAssemblyReference.cache
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\obj\Debug\Gif.Components.dll
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\Components\obj\Debug\Gif.Components.pdb

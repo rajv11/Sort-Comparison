@@ -10,3 +10,15 @@ C:\Users\raj\Documents\44663\SortComparison_src\SortComparison\bin\Debug\Gif.Com
 C:\Users\raj\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\raj\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\raj\Documents\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\bin\Debug\Gif.Components.pdb
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\charan\Desktop\New folder (2)\Sort-Comparison\SortComparison\obj\x86\Debug\SortComparison.pdb
