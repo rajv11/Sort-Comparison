@@ -75,7 +75,6 @@
             this.cboAlg1.Name = "cboAlg1";
             this.cboAlg1.Size = new System.Drawing.Size(200, 21);
             this.cboAlg1.TabIndex = 2;
-            this.cboAlg1.SelectedIndex = 3;
             // 
             // cboAlg2
             // 
@@ -124,17 +123,18 @@
             // 
             // pnlSort1
             // 
-            this.pnlSort1.BackColor = System.Drawing.Color.White;
+            this.pnlSort1.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.pnlSort1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlSort1.Location = new System.Drawing.Point(13, 12);
             this.pnlSort1.Name = "pnlSort1";
             this.pnlSort1.Size = new System.Drawing.Size(200, 200);
             this.pnlSort1.TabIndex = 6;
             this.pnlSort1.TabStop = false;
+            this.pnlSort1.Click += new System.EventHandler(this.pnlSort1_Click);
             // 
             // pnlSort2
             // 
-            this.pnlSort2.BackColor = System.Drawing.Color.White;
+            this.pnlSort2.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.pnlSort2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlSort2.Location = new System.Drawing.Point(219, 12);
             this.pnlSort2.Name = "pnlSort2";
@@ -152,7 +152,7 @@
             this.tbSamples.SmallChange = 10;
             this.tbSamples.TabIndex = 8;
             this.tbSamples.TickFrequency = 10;
-            this.tbSamples.Value = 20;
+            this.tbSamples.Value = 30;
             // 
             // lblSamples
             // 

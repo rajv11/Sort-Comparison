@@ -29,7 +29,8 @@ namespace SortComparison
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            this.tbSamples.Value = 30;
+            this.cmdShuffle.PerformClick();
         }
 
         public void Randomize(IList list)
@@ -253,6 +254,10 @@ namespace SortComparison
                 this.txtOutputFolder.Text = folderBrowserDialog1.SelectedPath;
             }
         }
-      
+
+        private void pnlSort1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
