@@ -75,7 +75,6 @@
             this.cboAlg1.Name = "cboAlg1";
             this.cboAlg1.Size = new System.Drawing.Size(200, 21);
             this.cboAlg1.TabIndex = 2;
-            this.cboAlg1.SelectedIndex = 3;
             // 
             // cboAlg2
             // 
@@ -101,26 +100,27 @@
             this.cboAlg2.Name = "cboAlg2";
             this.cboAlg2.Size = new System.Drawing.Size(200, 21);
             this.cboAlg2.TabIndex = 3;
-            this.cboAlg2.SelectedIndex = 12;
             // 
             // cmdShuffle
             // 
+            this.cmdShuffle.BackColor = System.Drawing.SystemColors.Highlight;
             this.cmdShuffle.Location = new System.Drawing.Point(263, 257);
             this.cmdShuffle.Name = "cmdShuffle";
             this.cmdShuffle.Size = new System.Drawing.Size(75, 23);
             this.cmdShuffle.TabIndex = 4;
             this.cmdShuffle.Text = "Shuffle";
-            this.cmdShuffle.UseVisualStyleBackColor = true;
+            this.cmdShuffle.UseVisualStyleBackColor = false;
             this.cmdShuffle.Click += new System.EventHandler(this.cmdShuffle_Click);
             // 
             // cmdSort
             // 
+            this.cmdSort.BackColor = System.Drawing.SystemColors.Highlight;
             this.cmdSort.Location = new System.Drawing.Point(344, 257);
             this.cmdSort.Name = "cmdSort";
             this.cmdSort.Size = new System.Drawing.Size(75, 23);
             this.cmdSort.TabIndex = 5;
             this.cmdSort.Text = "Sort";
-            this.cmdSort.UseVisualStyleBackColor = true;
+            this.cmdSort.UseVisualStyleBackColor = false;
             this.cmdSort.Click += new System.EventHandler(this.cmdSort_Click);
             // 
             // pnlSort1
