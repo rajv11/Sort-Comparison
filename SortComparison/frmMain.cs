@@ -30,6 +30,8 @@ namespace SortComparison
         private void Form1_Load(object sender, EventArgs e)
         {
             this.tbSamples.Value = 30;
+            this.cboAlg1.SelectedIndex = 3;
+            this.cboAlg2.SelectedIndex = 12;
             this.txtOutputFolder.Text = InitializeOutputFolder();
             this.cmdShuffle.PerformClick();
         }
